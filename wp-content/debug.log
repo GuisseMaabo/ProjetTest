@@ -1,0 +1,28 @@
+[27-Jun-2019 09:29:47 UTC] PHP Notice:  Undefined property: stdClass::$plugin in C:\wamp64\www\ProjetTest\wp-includes\class-wp-list-util.php on line 152
+[27-Jun-2019 09:29:47 UTC] PHP Stack trace:
+[27-Jun-2019 09:29:47 UTC] PHP   1. {main}() C:\wamp64\www\ProjetTest\wp-admin\network\plugin-install.php:0
+[27-Jun-2019 09:29:47 UTC] PHP   2. require() C:\wamp64\www\ProjetTest\wp-admin\network\plugin-install.php:17
+[27-Jun-2019 09:29:47 UTC] PHP   3. WP_Plugin_Install_List_Table->prepare_items() C:\wamp64\www\ProjetTest\wp-admin\plugin-install.php:41
+[27-Jun-2019 09:29:47 UTC] PHP   4. wp_list_pluck() C:\wamp64\www\ProjetTest\wp-admin\includes\class-wp-plugin-install-list-table.php:255
+[27-Jun-2019 09:29:47 UTC] PHP   5. WP_List_Util->pluck() C:\wamp64\www\ProjetTest\wp-includes\functions.php:4257
+[27-Jun-2019 09:29:47 UTC] PHP Notice:  Undefined property: stdClass::$plugin in C:\wamp64\www\ProjetTest\wp-includes\class-wp-list-util.php on line 152
+[27-Jun-2019 09:29:47 UTC] PHP Stack trace:
+[27-Jun-2019 09:29:47 UTC] PHP   1. {main}() C:\wamp64\www\ProjetTest\wp-admin\network\plugin-install.php:0
+[27-Jun-2019 09:29:47 UTC] PHP   2. require() C:\wamp64\www\ProjetTest\wp-admin\network\plugin-install.php:17
+[27-Jun-2019 09:29:47 UTC] PHP   3. WP_Plugin_Install_List_Table->prepare_items() C:\wamp64\www\ProjetTest\wp-admin\plugin-install.php:41
+[27-Jun-2019 09:29:47 UTC] PHP   4. wp_filter_object_list() C:\wamp64\www\ProjetTest\wp-admin\includes\class-wp-plugin-install-list-table.php:256
+[27-Jun-2019 09:29:47 UTC] PHP   5. WP_List_Util->pluck() C:\wamp64\www\ProjetTest\wp-includes\functions.php:4207
+[27-Jun-2019 09:30:53 UTC] PHP Notice:  Undefined property: stdClass::$plugin in C:\wamp64\www\ProjetTest\wp-includes\class-wp-list-util.php on line 152
+[27-Jun-2019 09:30:53 UTC] PHP Stack trace:
+[27-Jun-2019 09:30:53 UTC] PHP   1. {main}() C:\wamp64\www\ProjetTest\wp-admin\network\plugin-install.php:0
+[27-Jun-2019 09:30:53 UTC] PHP   2. require() C:\wamp64\www\ProjetTest\wp-admin\network\plugin-install.php:17
+[27-Jun-2019 09:30:53 UTC] PHP   3. WP_Plugin_Install_List_Table->prepare_items() C:\wamp64\www\ProjetTest\wp-admin\plugin-install.php:41
+[27-Jun-2019 09:30:53 UTC] PHP   4. wp_list_pluck() C:\wamp64\www\ProjetTest\wp-admin\includes\class-wp-plugin-install-list-table.php:255
+[27-Jun-2019 09:30:53 UTC] PHP   5. WP_List_Util->pluck() C:\wamp64\www\ProjetTest\wp-includes\functions.php:4257
+[27-Jun-2019 09:30:53 UTC] PHP Notice:  Undefined property: stdClass::$plugin in C:\wamp64\www\ProjetTest\wp-includes\class-wp-list-util.php on line 152
+[27-Jun-2019 09:30:53 UTC] PHP Stack trace:
+[27-Jun-2019 09:30:53 UTC] PHP   1. {main}() C:\wamp64\www\ProjetTest\wp-admin\network\plugin-install.php:0
+[27-Jun-2019 09:30:53 UTC] PHP   2. require() C:\wamp64\www\ProjetTest\wp-admin\network\plugin-install.php:17
+[27-Jun-2019 09:30:53 UTC] PHP   3. WP_Plugin_Install_List_Table->prepare_items() C:\wamp64\www\ProjetTest\wp-admin\plugin-install.php:41
+[27-Jun-2019 09:30:53 UTC] PHP   4. wp_filter_object_list() C:\wamp64\www\ProjetTest\wp-admin\includes\class-wp-plugin-install-list-table.php:256
+[27-Jun-2019 09:30:53 UTC] PHP   5. WP_List_Util->pluck() C:\wamp64\www\ProjetTest\wp-includes\functions.php:4207
